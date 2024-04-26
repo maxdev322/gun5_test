@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'AKONY';
+	src: url('../fonts/akony-bold.eot');
+	/* IE 9 Compatibility Mode */
+	src: url('../fonts/akony-bold.eot?#iefix') format('embedded-opentype'),
+		/* IE < 9 */
+		url('../fonts/akony-bold.woff2') format('woff2'),
+		/* Super Modern Browsers */
+		url('../fonts/akony-bold.woff') format('woff'),
+		/* Firefox >= 3.6, any other modern browser */
+		url('../fonts/akony-bold.ttf') format('truetype'),
+		/* Safari, Android, iOS */
+		url('../fonts/akony-bold.svg#akony-bold') format('svg');
+	/* Chrome < 4, Legacy iOS */
+}
